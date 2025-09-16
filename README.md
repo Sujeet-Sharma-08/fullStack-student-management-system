@@ -7,7 +7,7 @@ A Full-stack web application built using React and Spring Boot for managing stud
 
 ## Tech Stack 🖥
 
-**Client:** React, Bootstrap, React Router, Axios, Toast Notifications Library
+**Client:** React, Tailwind Css, React Router, Axios, Toast Notifications Library
 
 **Server:** Spring Boot, Spring JPA, Spring Web, MySQL
 
